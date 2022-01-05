@@ -1,4 +1,4 @@
-<Lanzas>
+
 - 👋 Hi, I’m @hsthe29
 - 👀 I’m interested in Python & Kotlin
 - 🌱 I’m currently learning Computer Science at Hanoi University of Science and Technology
