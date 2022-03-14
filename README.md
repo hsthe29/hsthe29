@@ -12,7 +12,7 @@
 - My orientation and work in 2 direction
     - Android, Cross Platform and i use Kotlin as main language in these projects.
     - AI and of course, Python is main language
-Lanza del Relámpago
+- Lanza del Relámpago
 <!---
 hsthe29/hsthe29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
