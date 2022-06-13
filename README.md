@@ -9,9 +9,8 @@
     - Facebook: https://www.facebook.com/segunda.etapa.29/
     - Instagram: https://www.instagram.com/the.hosy/
     - Website: https://hsthe29.vn
-- My orientation and work in 2 direction
-    - Android, Cross Platform and i use Kotlin as main language in these projects.
-    - AI and of course, Python is main language
+- My orientation:
+    - AI (ML, DL)
 - Lanza del Relámpago
 <!---
 hsthe29/hsthe29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
