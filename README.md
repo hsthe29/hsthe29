@@ -11,7 +11,7 @@
     - Website: https://hsthe29.vn
 - My orientation:
     - AI (ML, DL)
-- Lanza del Relámpago
+- Main github account: https://github.com/thehs29
 <!---
 hsthe29/hsthe29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
