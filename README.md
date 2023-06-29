@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
     - Github: https://github.com/hsthe29
-    - Facebook: https://www.facebook.com/segunda.etapa.29/
+    - Facebook: https://www.facebook.com/thehs.29/
     - Instagram: https://www.instagram.com/the.hosy/
     - Website: https://hsthe29.vn
 - My orientation:
