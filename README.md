@@ -1,4 +1,5 @@
 
+# Overview
 - 👋 Hi, I’m @hsthe291
 - 👀 I’m interested in AI and Android
 - 🌱 I’m currently learning Computer Science at School of Information and Communication Technology - Hanoi University of Science and Technology.
@@ -17,4 +18,8 @@
 hsthe29/hsthe29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- Lanza -->
+# Statistic:
+<p>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=hsthe29&show_icons=true&theme=synthwave" alt="dangnm9699 :: Profile Stats" />
+  <img height="180em" width="49%" styles="align: right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsthe29&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" />
+</p>
