@@ -1,7 +1,7 @@
 # Overview
 
 - 👋 Hi, I’m @hsthe291
-- 👀 I’m interested in AI (Specifically LLM and Computer Vision)
+- 👀 I’m interested in AI (Specifically LLMs and Computer Vision)
 - 🌱 I’m currently studying Computer Science at School of Information and Communication Technology - Hanoi University of
   Science and Technology.
 
