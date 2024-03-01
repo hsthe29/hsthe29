@@ -8,6 +8,7 @@
 # <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" style="margin-right: 0px;">Contact me 🤝</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sy-the-ho-ba02282b7/"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="Linkedin"/></a>
   <a href="https://hsthe29.github.io/"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/resume.png" alt="Personal Website"/></a>
   <a href="thex6qcna@gmail.com"><img src="https://img.icons8.com/bubbles/50/gmail-new.png" alt="Gmail"/></a>
   <a href="https://github.com/hsthe29"><img width="50" height="50" src="https://img.icons8.com/bubbles/50/github.png" alt="Github"/></a>
