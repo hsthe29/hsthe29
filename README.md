@@ -4,7 +4,7 @@
 - 👀 I’m interested in AI (Natural Language Processing and Computer Vision)
 - 🌱 Bachelor of Computer Science at School of Information and Communication Technology - Hanoi University of
   Science and Technology.
-- AI Researcher (NLP) and Model Serving Engineer at MISA JSC.
+- AI Researcher (NLP), Model Optimizer and MLOps at MISA JSC.
 
 # Portfolio
 
